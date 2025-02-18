@@ -1,10 +1,10 @@
-HiI'm Hussein Abdi
+Hi I'm Hussein Abdi
 🚀 Software Developer
 I'm a full-stack developer specializing in Laravel, React, Inertia.js, and TypeScript. Passionate about building intuitive and efficient web applications, I focus on crafting seamless user experiences while ensuring robust backend solutions.
 
 🌍 Based in Somalia
 ✉️ Reach me at hussein.abdi.dev@gmail.com
-🚀 Currently working on a currency exchange platform & an AI-powered resume builder
+🚀 Currently working on an AI-powered applications
 🧠 Learning more about real-time applications with Laravel Reverb
 🤝 Open to collaborating on Laravel and React projects
 🔧 Skills
