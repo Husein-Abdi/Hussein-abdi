@@ -1,36 +1,20 @@
 <h1 align="center">Hi, I'm Hussein Abdi 🚀</h1>  
-<p align="center">
-  <b>Software Developer | Laravel Enthusiast | React & TypeScript Expert</b>  
-</p>  
-
----
+<p align="center"><b>Software Developer | Laravel Enthusiast | React & TypeScript Expert</b></p>  
 
 ### 🛠 About Me  
-
 💻 **Software Developer** specializing in **Laravel, React, Inertia.js, and TypeScript**.  
 🚀 Passionate about building **intuitive and efficient** web applications.  
 🎯 Focused on crafting **seamless user experiences** while ensuring robust backend solutions.  
 
----
-
 ### 🌍 Where You Can Find Me  
+📍 **Based in:** Somalia • ✉️ **Email:** [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)  
+🚀 **Currently working on:** AI-powered applications • 🧠 **Learning:** Laravel Reverb  
+🤝 **Open to collaborating on:** Laravel & React projects  
 
-📍 **Based in:** Somalia  
-✉️ **Email:** [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)  
-🚀 **Currently working on:** AI-powered applications  
-🧠 **Learning more about:** Real-time applications with Laravel Reverb  
-🤝 **Open to collaborating on:** Laravel and React projects  
-
----
-
-### 🔥 Let's Build Something Amazing Together!  
-
+### 🔥 Let's Build Something Amazing!  
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
----
-
 ### 🔧 Tech Stack & Skills  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
@@ -42,5 +26,3 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
