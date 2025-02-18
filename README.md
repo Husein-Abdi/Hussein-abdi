@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hussein Abdi 🚀</h1>  
+<h1 align="center">Hi, I'm Hussein 🚀</h1>  
 <p align="center"><b>Software Developer | Laravel Enthusiast | React & TypeScript Expert</b></p>  
 
 ### 🛠 About Me  
